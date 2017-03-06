@@ -13,5 +13,12 @@
         <protected>false</protected>
         <shortDescriptionLife is Beautiful</shortDescription>
         <value>Life</value>
-    </labels>    
+    </labels> 
+    <labels>
+        <fullName>Life is easy when it's simple</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Life is easy when it is simple</shortDescription>
+        <value>Life</value>
+    </labels>      
 </CustomLabels>

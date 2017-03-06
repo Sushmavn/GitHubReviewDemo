@@ -5,6 +5,6 @@
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>My first Label</shortDescription>
-        <value>Life is beautiful</value>
+        <value>Life</value>
     </labels>
 </CustomLabels>

@@ -15,10 +15,10 @@
         <value>Life</value>
     </labels> 
     <labels>
-        <fullName>Life is eassay when it's simple</fullName>
+        <fullName>Life is easy when it's simple</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>Life is eassy when it is simple</shortDescription>
+        <shortDescription>Life is easy when it is simple</shortDescription>
         <value>Life</value>
     </labels>      
 </CustomLabels>

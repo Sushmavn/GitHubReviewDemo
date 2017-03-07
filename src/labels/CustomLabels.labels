@@ -6,5 +6,12 @@
         <protected>false</protected>
         <shortDescription>Let us start from beginning</shortDescription>
         <value>Life</value>
+    </labels> 
+    <labels>
+        <fullName>One More Label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>One more label</shortDescription>
+        <value>Life</value>
     </labels>    
 </CustomLabels>

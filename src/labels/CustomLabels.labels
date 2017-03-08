@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>Life</fullName>
+        <fullName>Let us start from beginning</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>My first Label</shortDescription>
-        <value>Life</value>
-    </labels>
-    <labels>
-        <fullName>Life is beatiful</fullName>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescriptionLife is Beautiful</shortDescription>
+        <shortDescription>Let us start from beginning</shortDescription>
         <value>Life</value>
     </labels> 
     <labels>
-        <fullName>Life is easy when it's simple</fullName>
+        <fullName>One More Label</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>Life is easy when it is simple</shortDescription>
+        <shortDescription>One more label</shortDescription>
         <value>Life</value>
-    </labels>      
+    </labels>    
 </CustomLabels>

@@ -1,2 +1,2 @@
 # GitHubReviewDemo
-# enabling pre-commit-message hook
+# enabling pre-commit-message hooks

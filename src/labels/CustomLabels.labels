@@ -7,4 +7,12 @@
         <shortDescription>l</shortDescription>
         <value>Life</value>
     </labels> 
+    <labels>
+        <fullName>Second Successful CI build</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>2</shortDescription>
+        <value>Life</value>
+    </labels>     
+
 </CustomLabels>

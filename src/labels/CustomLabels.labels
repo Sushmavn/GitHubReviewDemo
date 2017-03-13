@@ -7,4 +7,11 @@
         <shortDescription>l</shortDescription>
         <value>Life</value>
     </labels>
+    <labels>
+        <fullName>A simple Label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SimpleLabel</shortDescription>
+        <value>Life</value>
+    </labels>    
 </CustomLabels>

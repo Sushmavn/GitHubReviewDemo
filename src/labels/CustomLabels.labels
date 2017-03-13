@@ -28,8 +28,7 @@
         <shortDescription>NewLabelTest</shortDescription>
         <value>Life</value>
     </labels>
-    </labels>
-        <labels>
+    <labels>
         <fullName>NewLabel2</fullName>
         <language>en_US</language>
         <protected>false</protected>

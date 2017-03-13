@@ -13,5 +13,12 @@
         <protected>false</protected>
         <shortDescription>SimpleLabel</shortDescription>
         <value>Life</value>
-    </labels>    
+    </labels>   
+        <labels>
+        <fullName>A simple Second Label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Simple Second Label</shortDescription>
+        <value>Life</value>
+    </labels>
 </CustomLabels>

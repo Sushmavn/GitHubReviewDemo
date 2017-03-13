@@ -36,7 +36,7 @@
         <value>Life</value>
     </labels>  
     <labels>
-        <fullName>NewLabel3</fullName>
+        <fullName>NewLabel3</fullName>>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>NewLabelTest3</shortDescription>

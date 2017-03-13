@@ -20,6 +20,13 @@
         <protected>false</protected>
         <shortDescription>2</shortDescription>
         <value>Life is beautiful</value>
-    </labels>       
+    </labels>    
+    <labels>
+        <fullName>Next action is to read commit comment to extract test class information</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>2</shortDescription>
+        <value>Life is beautiful</value>
+    </labels>  
 
 </CustomLabels>

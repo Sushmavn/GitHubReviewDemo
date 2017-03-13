@@ -21,4 +21,11 @@
         <shortDescription>Simple Second Label</shortDescription>
         <value>Life</value>
     </labels>
+        <labels>
+        <fullName>NewLabel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewLabelTest</shortDescription>
+        <value>Life</value>
+    </labels>    
 </CustomLabels>

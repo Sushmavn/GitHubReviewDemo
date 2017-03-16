@@ -7,46 +7,4 @@
         <shortDescription>l</shortDescription>
         <value>Life</value>
     </labels>
-    <labels>
-        <fullName>ASimpleLabel</fullName>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>SimpleLabel</shortDescription>
-        <value>Life</value>
-    </labels>   
-        <labels>
-        <fullName>ASimpleSecondLabel</fullName>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>Simple Second Label</shortDescription>
-        <value>Life</value>
-    </labels>
-        <labels>
-        <fullName>NewLabel</fullName>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>NewLabelTest</shortDescription>
-        <value>Life</value>
-    </labels>
-    <labels>
-        <fullName>NewLabel2</fullName>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>Corrected value2</shortDescription>
-        <value>Life</value>
-    </labels>  
-    <labels>
-        <fullName>NewLabel3</fullName>>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>NewLabelTest3</shortDescription>
-        <value>Life</value>
-    </labels> 
-        <labels>
-        <fullName>NewLabel4</fullName>>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>NewLabelTest4</shortDescription>
-        <value>Life</value>
-    </labels> 
 </CustomLabels>

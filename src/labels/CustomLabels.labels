@@ -41,5 +41,12 @@
         <protected>false</protected>
         <shortDescription>NewLabelTest3</shortDescription>
         <value>Life</value>
-    </labels>      
+    </labels> 
+        <labels>
+        <fullName>NewLabel4</fullName>>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewLabelTest4</shortDescription>
+        <value>Life</value>
+    </labels> 
 </CustomLabels>

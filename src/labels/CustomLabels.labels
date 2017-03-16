@@ -14,4 +14,11 @@
         <shortDescription>two</shortDescription>
         <value>Life2</value>
     </labels>
+    <labels>
+        <fullName>Three</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>two</shortDescription>
+        <value>Three</value>
+    </labels>    
 </CustomLabels>

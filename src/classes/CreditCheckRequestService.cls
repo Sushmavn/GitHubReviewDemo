@@ -1,5 +1,5 @@
 public with sharing class CreditCheckRequestService 
-{/* adding something again
+{/* adding something again something
     public static final String RESUBMIT_TYPE = 'RESUBMITTING';
     public static final String NEW_TYPE = 'SUBMITTED';
     public static final String ERROR_TYPE = 'ERROR';
